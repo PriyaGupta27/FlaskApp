@@ -1,0 +1,4 @@
+Python 3.10.4
+Flask 2.3.3
+Werkzeug 2.3.7
+Docker 24.0.5
